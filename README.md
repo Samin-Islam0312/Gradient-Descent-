@@ -1,1 +1,2 @@
-# Gradient-Descent-
+# Gradient-Descent
+description 
